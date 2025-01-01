@@ -19,7 +19,9 @@ bun dev
 ![demo](./demo-img.png)
 
 ### Video Demo
-https://github.com/shadcn/gradient-noisy-circle/raw/main/noisy-animating-circle.mov
+https://github.com/shadee22/gradient-noisy-circle/blob/main/noisy-animating-circle.mov
+
+
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
