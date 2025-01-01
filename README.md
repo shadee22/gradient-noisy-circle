@@ -14,6 +14,13 @@ pnpm dev
 bun dev
 ```
 
+### DEMO ( Animating )
+
+![demo](./demo-img.png)
+
+### Video Demo
+https://github.com/shadcn/gradient-noisy-circle/raw/main/noisy-animating-circle.mov
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
